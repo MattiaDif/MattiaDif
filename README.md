@@ -2,7 +2,7 @@
 <p align="center">
   
 <hr/>
-<h4 align="center">PhD Student of Bioengineering focused on development of closed-loop system for neuroengineering.</h4>
+<h3 align="center">PhD Student of Bioengineering focused on development of closed-loop system for neuroengineering.</h3>
 <br>
 
 
