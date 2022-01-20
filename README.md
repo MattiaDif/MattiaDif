@@ -5,9 +5,9 @@
 <br>
 
 
-<p align="center">
+<!--<p align="center">
     <img src="https://github.com/MattiaDif/MattiaDif/blob/main/spike_github.png" width=15% height=15%>
-</p>
+</p>-->
 
 
 <h2 align="left">Info</h2>
