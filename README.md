@@ -2,7 +2,6 @@
   
 <hr/>
 <h3 align="center">PhD Student of Bioengineering focused on development of closed-loop system for neuroengineering.</h3>
-<br>
 
 
 <!--<p align="center">
@@ -10,10 +9,10 @@
 </p>-->
 
 
-<h2 align="left">Info</h2>
-<p align="left">
-  <img src="https://img.shields.io/badge/Where-Italy-blue" /><br />
-  <img src="https://img.shields.io/badge/Contact-di.florio.mattia@gmail.com-white" /><br />
+<h2 align="center">Info</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Where-Italy-blue" />
+  <img src="https://img.shields.io/badge/Contact-di.florio.mattia@gmail.com-white" />
   <img src="https://img.shields.io/badge/Language-Italian%20%26%20English-orange" />
 </p>
 
