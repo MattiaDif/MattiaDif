@@ -5,17 +5,13 @@
 <br>
 
 
-<br />
-
-<p>
-    <img src="https://github.com/StefanoBuccelli/closed-loop-neuroscience/blob/master/Images/cust_arch_example.png" width=100% height=100%>
-    <figcaption  align = "center"> <b>Fig.1 - Simulink library application example</b></figcaption>
+<p align="center">
+    <img src="https://github.com/MattiaDif/MattiaDif/blob/main/spike_github.png" width=15% height=15%>
 </p>
 
-<br />
 
-<h2 align="right">Info</h2>
-<p align="right">
+<h2 align="left">Info</h2>
+<p align="left">
   <img src="https://img.shields.io/badge/Where-Italy-blue" /><br />
   <img src="https://img.shields.io/badge/Contact-di.florio.mattia@gmail.com-white" /><br />
   <img src="https://img.shields.io/badge/Language-Italian%20%26%20English-orange" />
@@ -68,6 +64,11 @@
   <a href="https://inkscape.org/" target="_blank"> 
     <img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-white.svg?logo=Inkscape&logoColor=black">
   </a>
+</p>
+
+<h3 align="center">Tags</h2>
+<p align="center">
+  #spikedetection, #signalprocessing, #neuroengineering 
 </p>
 
 <!--
