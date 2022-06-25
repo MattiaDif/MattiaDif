@@ -11,9 +11,15 @@
 
 <h2 align="center">Info</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Where-Italy-blue" />
-  <img src="https://img.shields.io/badge/Contact-di.florio.mattia@gmail.com-white" />
-  <img src="https://img.shields.io/badge/Language-Italian%20%26%20English-orange" />
+  <a href="https://www.google.com/maps/place/Genova+GE,+Italia/@44.4470789,8.820792,12z         /data=!3m1!4b1!4m5!3m4!1s0x12d34152dcd49aad:0x236a84f11881620a!8m2!3d44.4056499!4d8.946256" target="_blank">
+    <img src="https://img.shields.io/badge/Where-Italy, Genoa-blue?style=for-the-badge" />
+  </a>
+  <a href="#" target="_blank"> 
+    <img src="https://img.shields.io/badge/Contact-di.florio.mattia@gmail.com-white?style=for-the-badge" />
+  </a>
+  <a href="#" target="_blank"> 
+    <img src="https://img.shields.io/badge/Language-Italian%20%26%20English-orange?style=for-the-badge" />
+  </a>
 </p>
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattiaDif)](https://github.com/anuraghazra/github-readme-stats)-->
