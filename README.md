@@ -75,10 +75,6 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img alt="Git" src="https://img.shields.io/badge/Git-red.svg?style=for-the-badge&logo=Git&logoColor=white">
   </a>
-  &emsp;
-  <a href="https://github.com/" target="_blank"> 
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-white.svg?style=for-the-badge&logo=GitHub&logoColor=black">
-  </a>
   
 </p>
 
