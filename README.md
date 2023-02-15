@@ -68,6 +68,10 @@
     <img alt="Vivado" src="https://img.shields.io/badge/Vivado-yellowgreen.svg?style=for-the-badge&logo=xilinx&logoColor=white">
   </a>
   &emsp;
+  <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank"> 
+    <img alt="Vitis" src="https://img.shields.io/badge/Vitis-red.svg?style=for-the-badge&logo=xilinx&logoColor=white">
+  </a>
+  &emsp;
   <a href="https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide" target="_blank"> 
     <img alt="MPLAB X IDE" src="https://img.shields.io/badge/MPLAB X IDE-red.svg?style=for-the-badge&logo=microchip&logoColor=white">
   </a>
