@@ -68,7 +68,7 @@
     <img alt="Vivado" src="https://img.shields.io/badge/Vivado-yellowgreen.svg?style=for-the-badge&logo=xilinx&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank"> 
+  <a href="https://www.xilinx.com/products/design-tools/vitis/vitis-platform.html" target="_blank"> 
     <img alt="Vitis" src="https://img.shields.io/badge/Vitis-red.svg?style=for-the-badge&logo=xilinx&logoColor=white">
   </a>
   &emsp;
