@@ -55,6 +55,10 @@
   <a href="#" target="_blank"> 
     <img alt="VHDL" src="https://img.shields.io/badge/VHDL-yellow.svg?style=for-the-badge&logoColor=white">
   </a>
+  &emsp;
+  <a href="#" target="_blank"> 
+    <img alt="Verilog" src="https://img.shields.io/badge/Verilog-green.svg?style=for-the-badge&logoColor=white">
+  </a>
 </p>
 
 
