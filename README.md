@@ -78,12 +78,7 @@
   &emsp;
   <a href="https://code.visualstudio.com/" target="_blank"> 
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-blue.svg?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img alt="Git" src="https://img.shields.io/badge/Git-red.svg?style=for-the-badge&logo=Git&logoColor=white">
-  </a>
-  
+  </a>  
 </p>
 
 
