@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Where-Italy, Genoa-blue?style=for-the-badge" />
   </a>
   <a href="#" target="_blank"> 
-    <img src="https://img.shields.io/badge/Contact-di.florio.mattia@gmail.com-white?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Contact-mattia.diflorio@edu.unige.it-white?style=for-the-badge" />
   </a>
   <a href="#" target="_blank"> 
     <img src="https://img.shields.io/badge/Language-Italian%20%26%20English-orange?style=for-the-badge" />
