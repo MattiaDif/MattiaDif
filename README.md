@@ -97,9 +97,9 @@
 </p>
 
 
-<h3 align="center">Tags</h2>
+<h2 align="center">Tags</h2>
 <p align="center">
-  #neurosciensce, #real-time DSP, #neuroengineering 
+  #digital design, #real-time DSP, #neuroengineering 
 </p>
 
 <!--
