@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋</h1>
   
 <hr/>
-<h3 align="center">Closed-loop systems for neuroengineering</h3>
+<h2 align="center">Closed-loop systems for neuroengineering</h2>
 
 
 <p align="center">
@@ -98,9 +98,9 @@
 
 
 <h2 align="center">Tags</h2>
-<p align="center">
-  #digital design, #real-time DSP, #neuroengineering 
-</p>
+<h3 align="center">
+  <em>#digital design, #real-time DSP, #neuroengineering</em> 
+</h3>
 
 <!--
 **MattiaDif/MattiaDif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
