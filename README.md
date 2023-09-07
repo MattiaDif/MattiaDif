@@ -1,15 +1,14 @@
-<h1 align="center">Hi there, I'm Mattia! 👋</h1>
+<h1 align="center">Hi there! 👋</h1>
   
 <hr/>
-<h3 align="center">PhD Student of Bioengineering focused on development of closed-loop system for neuroengineering.</h3>
+<h3 align="center">Closed-loop systems for neuroengineering</h3>
 
 
-<!--<p align="center">
+<p align="center">
     <img src="https://github.com/MattiaDif/MattiaDif/blob/main/spike_github.png" width=15% height=15%>
-</p>-->
+</p>
 
 
-<h2 align="center">Info</h2>
 <p align="center">
   <a href="https://www.google.com/maps/place/Genova+GE,+Italia/@44.4470789,8.820792,12z         /data=!3m1!4b1!4m5!3m4!1s0x12d34152dcd49aad:0x236a84f11881620a!8m2!3d44.4056499!4d8.946256" target="_blank">
     <img src="https://img.shields.io/badge/Where-Italy, Genoa-blue?style=for-the-badge" />
