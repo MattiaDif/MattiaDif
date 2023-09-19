@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋</h1>
   
 <hr/>
-<h2 align="center">Closed-loop systems for neuroengineering</h2>
+<h2 align="center">closed-loop systems for neuroengineering</h2>
 
 
 <p align="center">
