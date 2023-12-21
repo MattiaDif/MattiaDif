@@ -1,7 +1,6 @@
 <h1 align="center">Hi there! 👋</h1>
   
-<hr/>
-<h2 align="center">closed-loop systems for neuroengineering</h2>
+<h2 align="center">Signal Processing for Neuroengineering</h2>
 
 
 <p align="center">
@@ -54,10 +53,21 @@
   <a href="#" target="_blank"> 
     <img alt="VHDL" src="https://img.shields.io/badge/VHDL-yellow.svg?style=for-the-badge&logoColor=white">
   </a>
+  <!--
   &emsp;
   <a href="#" target="_blank"> 
     <img alt="Verilog" src="https://img.shields.io/badge/Verilog-green.svg?style=for-the-badge&logoColor=white">
   </a>
+  -->
+</p>
+
+
+<h2 align="left">HDL Simulators</h2>
+<p align="left"> 
+  <a href="https://github.com/ghdl/ghdl" target="_blank"> 
+    <img alt="GHDL" src="https://img.shields.io/badge/GHDL-blue.svg?style=for-the-badge&logo=GHDL&logoColor=white">
+  </a>
+  &emsp;
 </p>
 
 
@@ -67,17 +77,20 @@
     <img alt="Vivado" src="https://img.shields.io/badge/Vivado-yellowgreen.svg?style=for-the-badge&logo=xilinx&logoColor=white">
   </a>
   &emsp;
+  <!--
   <a href="https://www.xilinx.com/products/design-tools/vitis/vitis-platform.html" target="_blank"> 
     <img alt="Vitis" src="https://img.shields.io/badge/Vitis-red.svg?style=for-the-badge&logo=xilinx&logoColor=white">
   </a>
   &emsp;
+  -->
   <a href="https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide" target="_blank"> 
     <img alt="MPLAB X IDE" src="https://img.shields.io/badge/MPLAB X IDE-red.svg?style=for-the-badge&logo=microchip&logoColor=white">
   </a>
   &emsp;
   <a href="https://code.visualstudio.com/" target="_blank"> 
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-blue.svg?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
-  </a>  
+  </a>
+  &emsp;
 </p>
 
 
