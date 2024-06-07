@@ -1,7 +1,6 @@
 <h2 align="left">Hi there! 👋</h2>
   
-I'm Mattia, a PhD student in neuroengineering focused on designing neural signal processing algorithm for FPGA.
-
+I'm Mattia, a PhD student in neuroengineering focused on designing neural signal processing algorithms for FPGA.
 
 <!-- <p align="center">
     <img src="https://github.com/MattiaDif/MattiaDif/blob/main/spike_github.png" width=15% height=15%>
@@ -13,8 +12,6 @@ I'm Mattia, a PhD student in neuroengineering focused on designing neural signal
 </p>
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattiaDif)](https://github.com/anuraghazra/github-readme-stats)-->
-
-
 
 <h3 align="left">Programming</h3>
 <p align="left"> 
@@ -60,15 +57,17 @@ I'm Mattia, a PhD student in neuroengineering focused on designing neural signal
 
 <h3 align="left">Graphic Design</h3>
 <p align="left">
-  <a href="https://inkscape.org/" target="_blank"> 
     <img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-white.svg?style=for-the-badge&logo=Inkscape&logoColor=black">
-  </a>
 </p>
 
-## 📫 How to reach me
-<p align="left">
+
+<h3 align="center">📫 How to reach me</h3>
+<p align="center">
     <img src="https://img.shields.io/badge/Contact-mattia.diflorio@edu.unige.it-white?style=for-the-badge">
-	  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white")
+    &emsp;
+    <a href="https://www.linkedin.com/in/mattia-di-florio-181914153/" target="_blank"> 
+	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white")
+    </a>
 </p>
 
 
