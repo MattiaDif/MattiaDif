@@ -27,11 +27,10 @@ I'm Mattia, a PhD student in neuroengineering focused on designing neural signal
 <p align="left"> 
     <img alt="VHDL" src="https://img.shields.io/badge/VHDL-yellow.svg?style=for-the-badge&logoColor=white">
     <img alt="Verilog" src="https://img.shields.io/badge/Verilog-green.svg?style=for-the-badge&logoColor=white">
-    <img alt="VUnit" src="https://img.shields.io/badge/VUnit-blue.svg?style=for-the-badge&logoColor=white">
 </p>
 
 
-<h3 align="left">HDL Simulators/Wave Viewers</h3>
+<h3 align="left">HDL Simulators</h3>
 <p align="left"> 
     <img alt="GHDL" src="https://img.shields.io/badge/GHDL-blue.svg?style=for-the-badge&logoColor=white">
     <img alt="Vivado Simulator" src="https://img.shields.io/badge/Vivado Simulator-yellow.svg?style=for-the-badge&logoColor=white">
@@ -46,6 +45,7 @@ I'm Mattia, a PhD student in neuroengineering focused on designing neural signal
     <img alt="MPLAB X IDE" src="https://img.shields.io/badge/MPLAB X IDE-red.svg?style=for-the-badge&logoColor=white">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-blue.svg?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
     <img alt="SmartGit" src="https://img.shields.io/badge/SmartGit-grey.svg?style=for-the-badge&logoColor=white">
+    <img alt="VUnit" src="https://img.shields.io/badge/VUnit-blue.svg?style=for-the-badge&logoColor=white">
 </p>
 
 
