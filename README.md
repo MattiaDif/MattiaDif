@@ -15,8 +15,8 @@ I'm Mattia, a PhD student in neuroengineering focused on designing neural signal
 
 <h3 align="left">Programming</h3>
 <p align="left"> 
-    <img alt="Matlab" src="https://img.shields.io/badge/Matlab-orange.svg?style=for-the-badge&logo=matlab&logoColor=white">
-    <img alt="Simulink" src="https://img.shields.io/badge/Simulink-orange.svg?style=for-the-badge&logo=simulink&logoColor=white">
+    <img alt="Matlab" src="https://img.shields.io/badge/Matlab-BF4806.svg?style=for-the-badge&logo=matlab&logoColor=white">
+    <img alt="Simulink" src="https://img.shields.io/badge/Simulink-BF4806.svg?style=for-the-badge&logo=simulink&logoColor=white">
     <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
     <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img alt="Phyton" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -26,15 +26,15 @@ I'm Mattia, a PhD student in neuroengineering focused on designing neural signal
 <h3 align="left">Hardware Description</h3>
 <p align="left"> 
     <img alt="VHDL" src="https://img.shields.io/badge/VHDL-yellow.svg?style=for-the-badge&logoColor=white">
-    <img alt="Verilog" src="https://img.shields.io/badge/Verilog-green.svg?style=for-the-badge&logoColor=white">
+    <img alt="Verilog" src="https://img.shields.io/badge/Verilog-red.svg?style=for-the-badge&logoColor=white">
 </p>
 
 
 <h3 align="left">HDL Simulators</h3>
 <p align="left"> 
-    <img alt="GHDL" src="https://img.shields.io/badge/GHDL-blue.svg?style=for-the-badge&logoColor=white">
-    <img alt="Vivado Simulator" src="https://img.shields.io/badge/Vivado Simulator-yellow.svg?style=for-the-badge&logoColor=white">
-    <img alt="Icarus Verilog" src="https://img.shields.io/badge/Icarus Verilog-green.svg?style=for-the-badge&logoColor=white">
+    <img alt="GHDL" src="https://img.shields.io/badge/GHDL-0245F7.svg?style=for-the-badge&logoColor=white">
+    <img alt="Vivado Simulator" src="https://img.shields.io/badge/Vivado Simulator-yellowgreen.svg?style=for-the-badge&logoColor=white">
+    <img alt="Icarus Verilog" src="https://img.shields.io/badge/Icarus Verilog-red.svg?style=for-the-badge&logoColor=white">
     <img alt="GTKWave" src="https://img.shields.io/badge/GTKWave-darkgreen.svg?style=for-the-badge&logoColor=white">
 </p>
 
@@ -42,10 +42,10 @@ I'm Mattia, a PhD student in neuroengineering focused on designing neural signal
 <h3 align="left">Tools</h3>
 <p align="left">
     <img alt="Vivado" src="https://img.shields.io/badge/Vivado-yellowgreen.svg?style=for-the-badge&logo=xilinx&logoColor=white">
-    <img alt="MPLAB X IDE" src="https://img.shields.io/badge/MPLAB X IDE-red.svg?style=for-the-badge&logoColor=white">
+    <img alt="MPLAB X IDE" src="https://img.shields.io/badge/MPLAB X IDE-052E38.svg?style=for-the-badge&logoColor=white">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-blue.svg?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
     <img alt="SmartGit" src="https://img.shields.io/badge/SmartGit-grey.svg?style=for-the-badge&logoColor=white">
-    <img alt="VUnit" src="https://img.shields.io/badge/VUnit-blue.svg?style=for-the-badge&logoColor=white">
+    <img alt="VUnit" src="https://img.shields.io/badge/VUnit-0C479D.svg?style=for-the-badge&logoColor=white">
 </p>
 
 
