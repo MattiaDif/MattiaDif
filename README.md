@@ -41,6 +41,11 @@ I'm Mattia, a PhD student in neuroengineering focused on designing neural signal
     <!-- <img alt="GTKWave" src="https://img.shields.io/badge/GTKWave-darkgreen.svg?style=for-the-badge&logoColor=white"> -->
 </p>
 
+<h3 align="left">Version Control</h3>
+<p align="left"> 
+    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
 
 <h3 align="left">Tools</h3>
 <p align="left">
