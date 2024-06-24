@@ -71,7 +71,7 @@ I'm Mattia, a PhD student in neuroengineering focused on designing neural DSP al
 
 <h3 align="center">📫 How to reach me</h3>
 <p align="center">
-    <img src="https://img.shields.io/badge/Contact-di.florio.mattia@gmail.com-white?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Contact-mattia.dflorio@gmail.com-white?style=for-the-badge">
     &emsp;
     <a href="https://www.linkedin.com/in/mattia-di-florio-181914153/" target="_blank"> 
 	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white")
