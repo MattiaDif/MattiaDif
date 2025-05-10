@@ -1,6 +1,6 @@
 <h2 align="left">Hi there! 👋</h2>
   
-I'm Mattia, a PhD student in neuroengineering focused on designing neural DSP algorithms for FPGA.
+I'm Mattia, a PhD student in neuroengineering focused on designing neural DSP algorithms for FPGA and a digital design engineer at Iventvm Semiconductor company focused on designing IC for audio application.
 
 <!-- <p align="center">
     <img src="https://github.com/MattiaDif/MattiaDif/blob/main/spike_github.png" width=15% height=15%>
@@ -62,6 +62,7 @@ I'm Mattia, a PhD student in neuroengineering focused on designing neural DSP al
 <h3 align="left">Graphic Design</h3>
 <p align="left">
     <img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-white.svg?style=for-the-badge&logo=Inkscape&logoColor=black">
+    <img alt="Visio" src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white">
 </p>
 
 
