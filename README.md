@@ -30,6 +30,7 @@ I'm Mattia, a PhD student in neuroengineering focused on designing neural DSP al
 <p align="left"> 
     <img alt="VHDL" src="https://img.shields.io/badge/VHDL-yellow.svg?style=for-the-badge&logoColor=white">
     <img alt="Verilog" src="https://img.shields.io/badge/Verilog-red.svg?style=for-the-badge&logoColor=white">
+    <img alt="SystemVerilog" src="https://img.shields.io/badge/SystemVerilog-red.svg?style=for-the-badge&logoColor=white">
 </p>
 
 
@@ -41,21 +42,16 @@ I'm Mattia, a PhD student in neuroengineering focused on designing neural DSP al
     <!-- <img alt="GTKWave" src="https://img.shields.io/badge/GTKWave-darkgreen.svg?style=for-the-badge&logoColor=white"> -->
 </p>
 
-<h3 align="left">Version Control</h3>
-<p align="left"> 
-    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-</p>
-
 
 <h3 align="left">Tools</h3>
 <p align="left">
     <img alt="Vivado" src="https://img.shields.io/badge/Vivado-yellowgreen.svg?style=for-the-badge&logo=xilinx&logoColor=white">
     <img alt="MPLAB X IDE" src="https://img.shields.io/badge/MPLAB X IDE-052E38.svg?style=for-the-badge&logoColor=white">
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-blue.svg?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+    <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
     <!-- <img alt="SmartGit" src="https://img.shields.io/badge/SmartGit-grey.svg?style=for-the-badge&logoColor=white">
     <img alt="VUnit" src="https://img.shields.io/badge/VUnit-0C479D.svg?style=for-the-badge&logoColor=white"> -->
 </p>
-
 
 <h3 align="left">Documentation</h3>
 <p align="left">
