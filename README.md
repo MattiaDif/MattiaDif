@@ -7,7 +7,7 @@ I'm Mattia, a digital design engineer at Inventvm Semiconductor company focused 
 </p> -->
 
 <p align="left">
-    <img src="https://img.shields.io/badge/Where-Italy, Genoa-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Where-Italy, Pavia-blue?style=for-the-badge">
     <img src="https://img.shields.io/badge/Language-Italian%20%26%20English-orange?style=for-the-badge">
 </p>
 
@@ -46,18 +46,24 @@ I'm Mattia, a digital design engineer at Inventvm Semiconductor company focused 
 <h3 align="left">Tools</h3>
 <p align="left">
     <img alt="Vivado" src="https://img.shields.io/badge/Vivado-yellowgreen.svg?style=for-the-badge&logo=xilinx&logoColor=white">
-    <img alt="MPLAB X IDE" src="https://img.shields.io/badge/MPLAB X IDE-052E38.svg?style=for-the-badge&logoColor=white">
+    <!--<img alt="MPLAB X IDE" src="https://img.shields.io/badge/MPLAB X IDE-052E38.svg?style=for-the-badge&logoColor=white">-->
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
     <!-- <img alt="SmartGit" src="https://img.shields.io/badge/SmartGit-grey.svg?style=for-the-badge&logoColor=white">
     <img alt="VUnit" src="https://img.shields.io/badge/VUnit-0C479D.svg?style=for-the-badge&logoColor=white"> -->
 </p>
 
+<h3 align="left">EDA for IC design</h3>
+<p align="left">
+    <img alt="Cadence" src="https://img.shields.io/badge/Cadence-red.svg?style=for-the-badge&logo=cadence&logoColor=white">
+</p>
+
+<!--
 <h3 align="left">Documentation</h3>
 <p align="left">
     <img alt="GitBook" src="https://img.shields.io/badge/GitBook-grey.svg?style=for-the-badge&logoColor=white">
 </p>
-
+-->
 
 <h3 align="left">Graphic Design</h3>
 <p align="left">
@@ -65,15 +71,6 @@ I'm Mattia, a digital design engineer at Inventvm Semiconductor company focused 
     <img alt="Visio" src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white">
 </p>
 
-
-<h3 align="center">📫 How to reach me</h3>
-<p align="center">
-    <img src="https://img.shields.io/badge/Contact-mattia.dflorio@gmail.com-white?style=for-the-badge">
-    &emsp;
-    <a href="https://www.linkedin.com/in/mattia-di-florio-181914153/" target="_blank"> 
-	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white")
-    </a>
-</p>
 
 
 <!--
